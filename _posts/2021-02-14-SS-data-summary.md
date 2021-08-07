@@ -1,5 +1,6 @@
 ---
-layout: post
+categories:
+  - blog
 title: Quick Soil Sampling Data Summary With Python
 subtitle: Using pandas, matplotlib and numpy to create a quick and dirty plot that summarized your data. Just enough to make your job easier.
 tags: [python, geology, exploration, soil sampling, data, pandas, matplotlib, numpy]
